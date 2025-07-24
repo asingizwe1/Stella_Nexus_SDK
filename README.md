@@ -2,7 +2,7 @@
 
 Nexus is a **utility-focused, modular SDK** built on Stellar that empowers developers and financial institutions to build modern remittance, payment, and liquidity solutions. While SDK-first, Nexus allows teams to build their own frontends or full-fledged applications on top of it.
 
-## 🌐 Overview
+## Overview
 
 Nexus is a **payments and remittance infrastructure SDK** that:
 
@@ -13,7 +13,7 @@ Nexus is a **payments and remittance infrastructure SDK** that:
 
 ---
 
-## 🔧 SDK Functionality
+## SDK Functionality
 
 Nexus provides the following out-of-the-box modules:
 
@@ -44,7 +44,7 @@ Nexus provides the following out-of-the-box modules:
 
 ---
 
-## 💻 App Possibility
+## App Possibility
 
 While Nexus is SDK-first, developers and organizations can build their **own branded remittance apps** on top of the SDK. Examples include:
 
@@ -60,7 +60,7 @@ With only a few function calls, you can enable advanced features like:
 
 ---
 
-## 🚀 Why Stellar?
+##  Why Stellar?
 
 Nexus leverages Stellar protocols to maximize speed, transparency, and cost-effectiveness:
 
@@ -71,17 +71,27 @@ Nexus leverages Stellar protocols to maximize speed, transparency, and cost-effe
 
 ---
 
-## 💰 Monetization & Pricing
+## Business Model
 
-Nexus applies a per-transaction fee model:
-- **0.3% per transaction**, with a **minimum of $0.10**
-- Fees can be split between Nexus and app builders or partners
+Per‑Transaction Fees
+• 0.3% (min $0.10) on each transfer
 
-You can monetize your own app by retaining a portion of the transaction fee or integrating your own premium services on top of Nexus.
+FX Spread
+• +0.5% markup over mid‑market rate
 
----
+Subscription Plans
+• $99/mo for SMEs: higher limits, advanced fraud rules, priority support
 
-## 🧠 AI Features (Future Extensions)
+Escrow/Dispute Fees
+• $1 flat per protected transaction or arbitration case
+
+SDK/API Licensing
+• $5k one‑time setup + $500/mo for white‑label access
+
+Liquidity Yield Share
+• 20% of staking/yield from pooled reserves
+
+## AI Features (Future Extensions)
 
 We envision integrating AI for:
 
@@ -92,9 +102,9 @@ We envision integrating AI for:
 
 ---
 
-## 💼 Use Cases Solved
+## Use Cases Solved
 
-### ❌ What Existing Solutions Miss
+### What Existing Solutions Miss
 
 | Provider         | Limitations |
 |------------------|-------------|
@@ -104,7 +114,7 @@ We envision integrating AI for:
 | **FlutterWave** | Card-heavy infrastructure, fragmented FX support, poor integration with Stellar or crypto rails |
 | **Legacy Cards** | High fees, no interoperability with stablecoins or crypto-native liquidity, friction in onboarding |
 
-### ✅ What Nexus Fixes
+### What Nexus Fixes
 
 - Fully **programmable remittance layer**
 - **One-time KYC** with optional decentralized scoring
@@ -114,18 +124,18 @@ We envision integrating AI for:
 
 ---
 
-## 📈 Project Roadmap
+## Project Roadmap
 
-- ✅ MVP SDK & API Documentation
-- ✅ Base Stellar integration
-- 🧪 Sandbox frontend for testing
-- 🏦 Anchor onboarding (Africa + Asia focus)
-- ⚙️ Smart contract-based rule engine (Soroban)
-- 🤖 AI-based fraud prevention module (planned)
+- MVP SDK & API Documentation
+- Base Stellar integration
+- Sandbox frontend for testing
+- Anchor onboarding (Africa + Asia focus)
+- Smart contract-based rule engine (Soroban)
+- AI-based fraud prevention module (planned)
 
 ---
 
-## 💸 Estimated Setup Cost
+## Estimated Setup Cost
 
 Depending on the scope of your deployment (demo, MVP, production):
 
@@ -136,7 +146,7 @@ Depending on the scope of your deployment (demo, MVP, production):
 
 ---
 
-## 🧩 Contribution & Partnerships
+## Contribution & Partnerships
 
 We’re seeking:
 
@@ -147,7 +157,7 @@ We’re seeking:
 
 ---
 
-## 📎 Summary
+## Summary
 
 > **Nexus is a Stellar-powered SDK utility that enables anyone to build programmable, scalable, and intelligent remittance & payment systems with plug-and-play functionality.**
 
@@ -155,7 +165,7 @@ Use it to power your own app or embed it into your financial platform.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For grant support, integration, or partnership inquiries:  
 **Email**: [youremail@example.com]  
