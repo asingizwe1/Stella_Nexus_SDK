@@ -168,6 +168,6 @@ Use it to power your own app or embed it into your financial platform.
 ## Contact
 
 For grant support, integration, or partnership inquiries:  
-**Email**: [youremail@example.com]  
-**GitHub**: [https://github.com/your-org/nexus-sdk]  
+**Email**: [asingizwe1louis1@gmail,com]  
+
 **Website**: [Coming soon]
